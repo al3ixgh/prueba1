@@ -1,0 +1,69 @@
+git version
+git init 	//para crear directorio oculto que incluya repositorios de trabajo
+git es un gestor de versiones
+
+git status
+	
+git add “archivo”
+
+git config 
+
+
+mirar funcionamiento del git log
+
+git log para ver los archivos confirmados (commit)
+
+git checkout //para recuperar los archivos confirmados/eliminados 
+	
+	git checkout “identificador”mediante una parte de su commit (identificacion de 40 caracteres)
+
+git cat-file -p “identificador de archivo/directorio”.   //para ver el arbol e información de directorios del archivo objetivo
+
+para salir del “compilador” ejecutar “ESC :q!”
+
+echo “JavaScript” / git hash-object —mensaje
+
+git branch 	//para ver ramas y rama actual
+	
+	git branch “nombre de rama” 	//para crear una nueva rama
+
+git commit -m “nombre”
+
+git checkout sirve para cambiar de rama/commit
+
+
+ordenes importantes
+git add “nombre fichero” (se puede usar . para añadir todo) //sirve para hacer la “foto“ alfichero cuando has hecho cambios notables que se quieren guardar
+git commit -m “mensaje”
+git checkout
+
+
+EJERCICIO 
+probar a crear un proyecto, crear una rama alternativa a la master generar archivos distintos y, pasar uno de ellos a la rama master
+eliminar un archivo y recuperarlo con checkout?
+
+	DIA 2
+
+git merge “rama” 	//fusion de ramas (se ejecuta desde una rama A git merge “rama B” para añadir en A lo de B
+PAGINAS DE INFORMACION: 
+	bitbucket
+	w3schools.com	//para html
+EN HTML
+al inicio escribir ! y tabulear para crear estructura inicial (doctype,head,body)
+
+	tags:
+		header,main,footer
+	 buscador de funciones: CTR+SHIFT+p
+en etiqueta a para linkear añadir etiqueta target “blank” para abrir link en una pestaña nueva
+
+para listas:
+	ul(mayor que) li*(numero de opciones de lalista) y tab 
+
+aspectos importantes:
+	blok & inline
+	classes	
+	id
+
+EJERCICIO
+	crear 3 paginas relacionadas sobre un personaje con links a imagenes y videos y links entre ellas
+	Home, Info, Imagenes, Videos
