@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+
+span.a{
+    display: none;
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border: 5px dotted black;
+    color: blue;
+}
+
+span.b{
+    display: inline;
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border: 5px dotted black;
+}
+
+span.c{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border: 5px dotted black;
+}
+
+span.d{
+    display: block;
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border: 5px dotted black;
+}
+
+
+  p{
+      margin: 50px 150px 50px 80px;
+      border: 10px double green;
+      border-radius: 28px;
+      padding: 12px 24px;
+  }

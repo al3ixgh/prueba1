@@ -1,0 +1,53 @@
+DIA 2
+	CSS
+
+	background color
+	height
+	width
+	margin
+	padding
+	box-sizing
+	position
+
+	box-model
+	@media screen and ((min/max)-widht: (numero)px	//a partir de aqui definir características para pantallas con un (numero) minimo de pixeles (para definir apariencia distinta entre mobil, tableta, pc...)
+	
+	
+	
+	EJERCICIO
+	Crear y publicar en Github una web sobre un deportista con las siguientes especificaciones:
+
+- externalizar todos los estilos CSS
+- todo el contenido tiene que estar centrado, dejando márgenes del 20%
+- los enlaces de navegación tienen que verse como inline-block
+- usar grid con grid-template-areas
+- un formulario
+- usar una font de google
+- que se vea bien en un ordinador y en una tablet, ajustando las propiedades css que sean necesarias
+
+pagina web con 3 paginas con un menu arriba (3 elementos) sobre un deportista con imagenes
+	una pagina con formulario (contacto)
+	añadir un grid.
+	cambiar la fuente
+
+DIA 3
+
+	background-image
+	background-repeat
+	background-size
+	
+https://css-tricks.com
+faststone.org
+https://developer.mozilla.org/es/
+
+	JAVASCRIPT
+incluir al final del html: <script src="(ruta del archivo js)"></script>
+
+console.log(variable)	//para mostrar por la consola el contenido de variable)
+console.log("texto")	//mostrar por la consola contenido de texto
+
+Variables:
+	constantes: const
+	let : variable normal?
+
+

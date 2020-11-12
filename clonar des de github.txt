@@ -1,0 +1,9 @@
+para clonar un repositorio entero de github:
+
+1.copiar el enlace del archivo
+
+2.abrir terminal
+
+3. situarse en el directorio donde queremos clonar el repositorio
+
+4. git clone (pegar enlace) [nombre que queremos poner a la carpeta]

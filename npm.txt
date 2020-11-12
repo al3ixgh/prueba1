@@ -1,0 +1,10 @@
+primero -> npm init
+segundo -> npm install
+tercero ->npm install chalk //esto creo que solo es para colorines en los mensajes
+
+
+alternativos:
+npm list
+
+
+https://devhints.io

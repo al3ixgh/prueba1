@@ -1,0 +1,1 @@
+depurar: (1) poner "debugger" (2) node inspect app.js (3) en chrome ir a chrome://inspect (4) tocar el enlace 'inspect'
